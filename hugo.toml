@@ -1,10 +1,10 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://lakshbudhrani.github.io/course-notes/'
 languageCode = 'en-us'
 title = 'My Course Hub'
 theme = 'hugo-book'
+canonifyURLs = true
 
 [params]
-  # Directs the Hugo Book theme to treat content/courses as the primary documentation tree
   BookSection = 'courses'
 
 [markup]
