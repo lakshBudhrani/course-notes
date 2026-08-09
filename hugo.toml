@@ -1,0 +1,13 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'My Course Hub'
+theme = 'hugo-book'
+
+[params]
+  # Directs the Hugo Book theme to treat content/courses as the primary documentation tree
+  BookSection = 'courses'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
