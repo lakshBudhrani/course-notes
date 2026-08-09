@@ -58,7 +58,7 @@ p.pencolor(255, 0, 0)      # red outline
 
 ### RGB Venn Diagram  
 
-<img src = "/images/rgb_venn.jpg" alt = "RGB Venn Diagram" width = "300"/>
+<img src="/course-notes/images/rgb_venn.jpg" alt = "RGB Venn Diagram" width = "300"/>
 
 ---
 

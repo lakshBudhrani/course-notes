@@ -25,7 +25,7 @@ Before we learn how to create lists, let's review all the tags and attributes we
 
 ## The Story Continues...
 
-<img src = "/images/sahil_list_planning.png" alt = "Sahil Planning His Lists Image" width = "350">
+<img src="/course-notes/images/sahil_list_planning.png" alt = "Sahil Planning His Lists Image" width = "350">
 
 > **Sahil's Week 5 Update!**
 > 

@@ -28,7 +28,7 @@ Before we learn how to build structured tables, let's review all the tags and at
 
 ## The Story Continues...
 
-<img src = "/images/sahil_table_planning.png" alt = "Sahil Planning His Table Image" width = "350">
+<img src="/course-notes/images/sahil_table_planning.png" alt = "Sahil Planning His Table Image" width = "350">
 
 > **Sahil's Week 7 Update!**
 > 

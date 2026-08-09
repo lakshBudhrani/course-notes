@@ -205,7 +205,7 @@ wn.mainloop()
 ## Independent Activity — Smiley Face Drawing
 
 ### Smiley Face Image
-<img src="/images/turtle_smiley.png" width="240">
+<img src="/course-notes/images/turtle_smiley.png" width="240">
 
 ---
 
