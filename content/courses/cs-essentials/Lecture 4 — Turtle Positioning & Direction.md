@@ -1,3 +1,7 @@
+---
+title: "Lecture 4 — Turtle Positioning & Direction"
+weight: 4
+---
 # Lecture 4 — Turtle Positioning & Direction  
 Instructor: Laksh Budhrani
 

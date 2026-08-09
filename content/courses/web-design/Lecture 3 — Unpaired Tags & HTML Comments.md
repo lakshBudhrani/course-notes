@@ -1,3 +1,7 @@
+---
+title: "Lecture 3 — Unpaired Tags & HTML Comments"
+weight: 3
+---
 # Lecture 3 — Unpaired Tags & HTML Comments
 Instructor: **Laksh Budhrani**
 

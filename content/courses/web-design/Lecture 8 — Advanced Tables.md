@@ -1,3 +1,7 @@
+---
+title: "Lecture 8 — Advanced Tables: Merging Cells with colspan & rowspan"
+weight: 8
+---
 # Lecture 8 — Advanced Tables: Merging Cells with `colspan` & `rowspan`
 Instructor: **Laksh Budhrani**
 

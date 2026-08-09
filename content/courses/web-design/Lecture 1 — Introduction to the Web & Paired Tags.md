@@ -1,3 +1,7 @@
+---
+title: "Lecture 1 — Introduction to the Web & Paired Tags"
+weight: 1
+---
 # Lecture 1 — Introduction to the Web & Paired Tags  
 Instructor: **Laksh Budhrani**
 

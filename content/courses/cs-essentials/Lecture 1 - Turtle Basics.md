@@ -1,3 +1,7 @@
+---
+title: "Lecture 1 — Turtle Basics"
+weight: 1
+---
 # Lecture 1 — Turtle Basics  
 Instructor: Laksh Budhrani
 

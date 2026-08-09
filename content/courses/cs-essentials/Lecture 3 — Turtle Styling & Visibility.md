@@ -1,3 +1,7 @@
+---
+title: "Lecture 3 — Turtle Styling & Visibility"
+weight: 3
+---
 # Lecture 3 — Turtle Styling & Visibility  
 Instructor: Laksh Budhrani
 

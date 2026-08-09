@@ -1,3 +1,7 @@
+---
+title: "Lecture 5 — Turtle Circles, Arcs & Polygons"
+weight: 5
+---
 # Lecture 5 — Turtle Circles, Arcs & Polygons  
 Instructor: Laksh Budhrani
 

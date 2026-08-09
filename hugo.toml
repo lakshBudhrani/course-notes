@@ -1,11 +1,14 @@
 baseURL = 'https://lakshbudhrani.github.io/course-notes/'
 languageCode = 'en-us'
-title = 'My Course Hub'
-theme = 'hugo-book'
+title = 'Laksh Budhrani | Course Hub'
+theme = 're-terminal'
+
 canonifyURLs = true
 
 [params]
-  BookSection = 'courses'
+  title = "Laksh Budhrani"
+  subtitle = "Computer Science Educator"
+  mainSections = ["courses"]
 
 [markup]
   [markup.goldmark]

@@ -1,3 +1,7 @@
+---
+title: "Lecture 9 — Input, Variables & Identifiers"
+weight: 9
+---
 # Lecture 9 — Input, Variables & Identifiers  
 Instructor: Laksh Budhrani
 

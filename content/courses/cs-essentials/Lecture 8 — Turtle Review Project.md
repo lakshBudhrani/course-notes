@@ -1,3 +1,7 @@
+---
+title: "Lecture 8 — Turtle Review Project"
+weight: 8
+---
 # Lecture 8 — Turtle Review Project  
 Instructor: Laksh Budhrani
 

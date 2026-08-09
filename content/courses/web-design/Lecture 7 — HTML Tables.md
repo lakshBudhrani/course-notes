@@ -1,3 +1,7 @@
+---
+title: "Lecture 7 — HTML Tables: Creating Structured Data"
+weight: 7
+---
 # Lecture 7 — HTML Tables: Creating Structured Data
 Instructor: **Laksh Budhrani**
 

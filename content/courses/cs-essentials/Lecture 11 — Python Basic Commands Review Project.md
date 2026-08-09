@@ -1,3 +1,7 @@
+---
+title: "Lecture 11 — Python Basic Commands Review Project"
+weight: 11
+---
 # Lecture 11 — Python Basic Commands Review Project  
 Instructor: Laksh Budhrani
 

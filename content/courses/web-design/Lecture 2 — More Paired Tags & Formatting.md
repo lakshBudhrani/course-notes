@@ -1,3 +1,7 @@
+---
+title: "Lecture 2 — More Paired Tags & Formatting"
+weight: 2
+---
 # Lecture 2 — More Paired Tags & Formatting
 Instructor: **Laksh Budhrani**
 

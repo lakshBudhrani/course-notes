@@ -1,3 +1,7 @@
+---
+title: "Lecture 10 — print() Statement & Comments"
+weight: 10
+---
 # Lecture 10 — print() Statement & Comments  
 Instructor: Laksh Budhrani
 

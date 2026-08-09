@@ -1,3 +1,7 @@
+---
+title: "Lecture 2 — Turtle Pen Control & Movements"
+weight: 2
+---
 # Lecture 2 — Turtle Pen Control & Movements  
 Instructor: Laksh Budhrani
 

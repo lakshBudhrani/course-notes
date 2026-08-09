@@ -1,3 +1,7 @@
+---
+title: "Lecture 6 — Turtle Fill Colors & RGB"
+weight: 6
+---
 # Lecture 6 — Turtle Fill Colors & RGB  
 Instructor: Laksh Budhrani
 

@@ -1,3 +1,7 @@
+---
+title: "Lecture 6 — Standalone HTML Challenge: Choose Your Own Project!"
+weight: 6
+---
 # Lecture 6 — Standalone HTML Challenge: Choose Your Own Project!
 Instructor: **Laksh Budhrani**
 

@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="posts">
+  <article class="post">
+    <h1 class="post-title">{{ .Title }}</h1>
+    
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    {{/* Only show the automatically generated lecture list on course sub-pages, NOT on the top-level /courses/ directory page */}}
+    {{ if ne .RelPermalink "/course-notes/courses/" }}
+      {{ if ne .RelPermalink "/courses/" }}
+        <hr />
+
+        <h2>Lectures & Notes</h2>
+        <ul class="posts-list" style="list-style-type: none; padding-left: 0; line-height: 2;">
+          {{ $pages := .Pages }}
+          {{ if .RegularPagesRecursive }}
+            {{ $pages = .RegularPagesRecursive }}
+          {{ end }}
+
+          {{ range $pages.ByWeight }}
+            {{ if ne .RelPermalink $.RelPermalink }}
+              <li style="margin-bottom: 8px;">
+                <a href="{{ .RelPermalink }}" style="text-decoration: underline; font-size: 1.1rem; font-weight: bold;">
+                  {{ if .Title }}
+                    {{ .Title }}
+                  {{ else if .File }}
+                    {{ .File.TranslationBaseName }}
+                  {{ else }}
+                    {{ .LinkTitle }}
+                  {{ end }}
+                </a>
+                {{ if .Date }}
+                  <span style="opacity: 0.6; font-size: 0.85rem; margin-left: 10px;">
+                    ({{ .Date.Format "Jan 2, 2006" }})
+                  </span>
+                {{ end }}
+              </li>
+            {{ end }}
+          {{ else }}
+            <p style="opacity: 0.7;">No lecture notes published yet for this section.</p>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+
+  </article>
+</div>
+{{ end }}

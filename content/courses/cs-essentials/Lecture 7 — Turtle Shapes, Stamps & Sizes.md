@@ -1,3 +1,7 @@
+---
+title: "Lecture 7 — Turtle Shapes, Stamps & Sizes"
+weight: 7
+---
 # Lecture 7 — Turtle Shapes, Stamps & Sizes  
 Instructor: Laksh Budhrani
 
