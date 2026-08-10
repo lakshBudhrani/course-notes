@@ -24,7 +24,7 @@ Before we jump into today's mission, let's do a quick check-in on what we learne
 
 ## The Story Continues...
 
-<img src="/course-notes/images/sahil_studying.png" alt = "Sahil Studying Image" width = "350">
+<img src="/images/sahil_studying.png" alt = "Sahil Studying Image" width = "350">
 
 > **Sahil's Week 2 Update!**
 > 

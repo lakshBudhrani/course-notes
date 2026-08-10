@@ -29,7 +29,7 @@ Before we jump into today's mission, let's review all the tags we've added to ou
 
 ## The Story Continues...
 
-<img src="/course-notes/images/sahil_register.png" alt = "Sahil Register Image" width = "350">
+<img src="/images/sahil_register.png" alt = "Sahil Register Image" width = "350">
 
 > **Sahil's Week 3 Update!**
 > 

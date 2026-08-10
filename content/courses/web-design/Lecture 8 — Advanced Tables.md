@@ -36,7 +36,7 @@ Before we learn how to span cells across multiple rows and columns, let's review
 
 ## The Story Continues...
 
-<img src="/course-notes/images/sahil_table_spanning.png" alt="Sahil Table Spanning Image" width="350">
+<img src="/images/sahil_table_spanning.png" alt="Sahil Table Spanning Image" width="350">
 
 > **Sahil's Week 8 Update!**
 > 

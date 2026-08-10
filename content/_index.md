@@ -5,7 +5,7 @@ draft: false
 
 # Welcome! 👋
 
-<img src="/course-notes/images/profile.png" width="400" alt="Laksh Budhrani">
+<img src="/images/profile.png" width="400" alt="Laksh Budhrani">
 
 I am **Laksh Budhrani**, a high school Computer Science educator at **John Paul II Catholic School**. I graduated from the **University of South Carolina Beaufort (USCB)** in Spring 2025 with a degree in **Computational Science** and a minor in **Mathematics**, and have been teaching at JPII ever since. My focus is on helping high school students build strong foundations in coding and computational thinking.
 

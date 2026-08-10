@@ -32,7 +32,7 @@ Before we learn how to give our tags custom instructions, let's review all **12 
 
 ## The Story Continues...
 
-<img src="/course-notes/images/sahil_drawing.png" alt = "Sahil Presenting Notebook Image" width = "350">
+<img src="/images/sahil_drawing.png" alt = "Sahil Presenting Notebook Image" width = "350">
 
 > **Sahil's Week 4 Update!**
 > 
@@ -88,7 +88,7 @@ An **attribute** provides extra information or instructions to an HTML tag. Attr
 The `<img>` tag is an **unpaired tag** used to display images on a webpage. However, `<img>` by itself does nothing—it needs attributes to tell the browser what image to show and how big it should be!
 
 ```html
-<img src="/course-notes/images/dog.jpg" alt="A cute golden retriever" width="250" height="200">
+<img src="/images/dog.jpg" alt="A cute golden retriever" width="250" height="200">
 ```
 
 ### Essential Image Attributes:
@@ -106,7 +106,7 @@ The `<img>` tag is an **unpaired tag** used to display images on a webpage. Howe
 ```html
 <img src="cat.jpg">
 ```
-<img src="/course-notes/images/cat.jpg" alt="Full size cat image">
+<img src="/images/cat.jpg" alt="Full size cat image">
 
 ---
 
@@ -114,7 +114,7 @@ The `<img>` tag is an **unpaired tag** used to display images on a webpage. Howe
 ```html
 <img src="cat.jpg" alt="A fluffy orange cat">
 ```
-<img src="/course-notes/images/cat_2.jpg" alt="A fluffy orange cat">
+<img src="/images/cat_2.jpg" alt="A fluffy orange cat">
 
 ---
 
@@ -122,7 +122,7 @@ The `<img>` tag is an **unpaired tag** used to display images on a webpage. Howe
 ```html
 <img src="cat.jpg" alt="A fluffy orange cat" width="200">
 ```
-<img src="/course-notes/images/cat.jpg" alt="Resized cat image width" width="250">
+<img src="/images/cat.jpg" alt="Resized cat image width" width="250">
 
 ---
 
@@ -130,7 +130,7 @@ The `<img>` tag is an **unpaired tag** used to display images on a webpage. Howe
 ```html
 <img src="cat.jpg" alt="A fluffy orange cat" height="100">
 ```
-<img src="/course-notes/images/cat.jpg" alt="Resized cat image height" height="100">
+<img src="/images/cat.jpg" alt="Resized cat image height" height="100">
 
 ---
 
@@ -138,7 +138,7 @@ The `<img>` tag is an **unpaired tag** used to display images on a webpage. Howe
 ```html
 <img src="cat.jpg" alt="A fluffy orange cat" width="300" height="100">
 ```
-<img src="/course-notes/images/cat.jpg" alt="Squished cat image" width="300" height="100">
+<img src="/images/cat.jpg" alt="Squished cat image" width="300" height="100">
 
 ---
 

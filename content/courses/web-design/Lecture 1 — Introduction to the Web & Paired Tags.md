@@ -9,7 +9,7 @@ Instructor: **Laksh Budhrani**
 
 ## The Problem Statement
 
-<img src="/course-notes/images/sahil_ghibli.png" alt = "Sahil Ghibli Image" width = "350">
+<img src="/images/sahil_ghibli.png" alt = "Sahil Ghibli Image" width = "350">
 
 > **Meet Sahil!**
 > 
