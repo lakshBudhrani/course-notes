@@ -1,4 +1,4 @@
-baseURL = 'https://lakshbudhrani.github.io/course-notes/'
+baseURL = 'https://lakshbudhrani.com/'
 languageCode = 'en-us'
 title = 'Laksh Budhrani | Course Hub'
 theme = 're-terminal'
