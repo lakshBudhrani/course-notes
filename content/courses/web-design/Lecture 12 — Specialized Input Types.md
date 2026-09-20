@@ -35,7 +35,7 @@ Before we learn about specialized form controls, let's review all the tags and a
 
 ## The Story Continues...
 
-<img src="images/sahil_specialized_inputs.jpg" alt="Sahil Specialized Inputs Image" width="350">
+<img src="/images/sahil_specialized_inputs.jpg" alt="Sahil Specialized Inputs Image" width="350">
 
 > **Sahil's Week 12 Update!**
 > 
@@ -83,7 +83,7 @@ Date and time inputs provide built-in visual clock and calendar widgets across d
 <input type="time" name="event_time">
 ```
 
-![Step 1 Date and Time Example](images/step1_datetime_example.png)
+![Step 1 Date and Time Example](/images/step1_datetime_example.png)
 
 > **Important Rule:** Browsers handle date and time formatting automatically based on the user's localized system settings!
 
@@ -93,7 +93,7 @@ Date and time inputs provide built-in visual clock and calendar widgets across d
 
 The `color` input type opens a native color wheel/palette interface. The selected color is stored as a 6-digit hex value (e.g., `#3b82f6`).
 
-![Step 2 Color Picker Example](images/step2_color_example.png)
+![Step 2 Color Picker Example](/images/step2_color_example.png)
 
 ```html
 <label>Choose Color:</label><br>
@@ -106,7 +106,7 @@ The `color` input type opens a native color wheel/palette interface. The selecte
 
 The `file` input type renders a browser-native "Choose File" or "Browse" button that opens the device file manager.
 
-![Step 3 File Upload Example](images/step3_file_example.png)
+![Step 3 File Upload Example](/images/step3_file_example.png)
 
 ```html
 <label>Upload Document:</label><br>
@@ -129,7 +129,7 @@ The `file` input type renders a browser-native "Choose File" or "Browse" button 
 
 Here is what Sahil's completed form will look like once we write the HTML together:
 
-![Sahil Day 12 Browser Preview](images/sahil_day12_preview.png)
+![Sahil Day 12 Browser Preview](/images/sahil_day12_preview.png)
 
 ---
 
@@ -181,7 +181,7 @@ Your page must include the following **4 requirements**:
 ---
 
 ### Example Solution
-![Portfolio Day 12 Example Image](images/portfolio_day12.png)
+![Portfolio Day 12 Example Image](/images/portfolio_day12.png)
 
 ---
 

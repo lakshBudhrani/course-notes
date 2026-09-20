@@ -114,7 +114,7 @@ Your submission file **`assignment2b.html`** must contain **ALL** of the followi
 
 Here is an example preview. Your work should look similar to this when opened in a web browser:
 
-![Assignment 2B Browser Preview](images/assignment2b_preview.png)
+![Assignment 2B Browser Preview](/images/assignment2b_preview.png)
 
 ---
 

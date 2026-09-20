@@ -28,7 +28,7 @@ Last class, we learned how to collect information from website visitors by build
 
 ## The Story Continues...
 
-<img src="images/sahil_choice_controls.jpg" alt="Sahil Choice Controls Image" width="350">
+<img src="/images/sahil_choice_controls.jpg" alt="Sahil Choice Controls Image" width="350">
 
 > **Sahil's Week 10 Update!**
 > 
@@ -80,7 +80,7 @@ To make radio buttons work as a team, **all radio buttons in the same question M
 <label>Sophomore</label>
 ```
 
-![Step 1 Radio Example](images/step1_radio_example.png)
+![Step 1 Radio Example](/images/step1_radio_example.png)
 
 > **Important Rule:** If radio buttons have different `name` attributes, the browser will let you select all of them at once!
 
@@ -90,7 +90,7 @@ To make radio buttons work as a team, **all radio buttons in the same question M
 
 Checkboxes are used when a user can select **zero, one, or multiple** options. Checking one box does **NOT** uncheck the others!
 
-![Step 2 Checkbox Example](images/step2_checkbox_example.png)
+![Step 2 Checkbox Example](/images/step2_checkbox_example.png)
 
 ```html
 <label>Interests:</label><br>
@@ -136,7 +136,7 @@ Because of this, **you must write `value="..."` in your HTML** so the computer k
 
 Here is what Sahil's completed choice form will look like once we write the HTML together:
 
-![Sahil Day 10 Browser Preview](images/sahil_day10_preview.png)
+![Sahil Day 10 Browser Preview](/images/sahil_day10_preview.png)
 
 ---
 
@@ -188,7 +188,7 @@ Your page must include the following **4 requirements**:
 ---
 
 ### Example Solution
-![Portfolio Day 10 Example Image](images/portfolio_day10.png)
+![Portfolio Day 10 Example Image](/images/portfolio_day10.png)
 
 ---
 

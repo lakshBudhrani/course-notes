@@ -39,7 +39,7 @@ Before we learn how to send our form data to a server, let's review all the tags
 
 ## The Story Continues...
 
-<img src="images/sahil_form_submission.jpg" alt="Sahil Form Submission Image" width="350">
+<img src="/images/sahil_form_submission.jpg" alt="Sahil Form Submission Image" width="350">
 
 > **Sahil's Week 13 Update!**
 > 
@@ -109,7 +109,7 @@ The `number` input type creates a text box optimized for typing numbers, complet
 <input type="number" name="item_quantity">
 ```
 
-![Step 1 Number Example](images/step1_number_example.png)
+![Step 1 Number Example](/images/step1_number_example.png)
 
 ---
 
@@ -122,7 +122,7 @@ Use `type="range"` to create a visual horizontal slider bar. Control its minimum
 <input type="range" name="volume_level" min="0" max="100" step="5">
 ```
 
-![Step 2 Range Example](images/step2_range_example.png)
+![Step 2 Range Example](/images/step2_range_example.png)
 
 > **Important Rule:** The `step` attribute controls how much the value increases or decreases with each movement along the slider or spinner!
 
@@ -137,7 +137,7 @@ The `submit` button triggers the form's `action` to send data to the backend, wh
 <input type="reset" value="Clear Form">
 ```
 
-![Step 3 Buttons Example](images/step3_buttons_example.png)
+![Step 3 Buttons Example](/images/step3_buttons_example.png)
 
 ---
 
@@ -155,7 +155,7 @@ The `submit` button triggers the form's `action` to send data to the backend, wh
 
 Here is what Sahil's completed form will look like once we write the HTML together:
 
-![Sahil Day 13 Browser Preview](images/sahil_day13_preview.png)
+![Sahil Day 13 Browser Preview](/images/sahil_day13_preview.png)
 
 ---
 
@@ -208,7 +208,7 @@ Your page must include the following **5 requirements**:
 ---
 
 ### Example Solution
-![Portfolio Day 13 Example Image](images/portfolio_day13.png)
+![Portfolio Day 13 Example Image](/images/portfolio_day13.png)
 
 ---
 

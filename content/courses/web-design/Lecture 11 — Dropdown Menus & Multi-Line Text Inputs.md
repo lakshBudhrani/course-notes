@@ -30,7 +30,7 @@ Up until now, we have learned how to collect text, passwords, emails, and single
 
 ## The Story Continues...
 
-<img src="images/sahil_dropdown_text.jpg" alt="Sahil Dropdown and Textarea Planning Image" width="350">
+<img src="/images/sahil_dropdown_text.jpg" alt="Sahil Dropdown and Textarea Planning Image" width="350">
 
 > **Sahil's Week 11 Update!**
 > 
@@ -81,7 +81,7 @@ When you have many options, a dropdown menu saves screen space by hiding choices
 </select>
 ```
 
-![Step 1 Select Example](images/step1_select_example.png)
+![Step 1 Select Example](/images/step1_select_example.png)
 
 > **Important Rule:** The `name` attribute goes inside the outer `<select>` tag, while the `value` attributes go inside each inner `<option>` tag!
 
@@ -101,7 +101,7 @@ Standard `<input type="text">` fields only allow one single line of text. When y
 <textarea name="user_message" rows="4" cols="30"></textarea>
 ```
 
-![Step 2 Textarea Example](images/step2_textarea_example.png)
+![Step 2 Textarea Example](/images/step2_textarea_example.png)
 
 > **Pro Tip:** Anything written between `<textarea>` and `</textarea>` becomes pre-filled default text! Keep them right next to each other to start with a clean, empty box.
 
@@ -121,7 +121,7 @@ Standard `<input type="text">` fields only allow one single line of text. When y
 
 Here is what Sahil's completed dropdown and message form will look like once we write the HTML together:
 
-![Sahil Day 11 Browser Preview](images/sahil_day11_preview.png)
+![Sahil Day 11 Browser Preview](/images/sahil_day11_preview.png)
 
 ---
 
@@ -173,7 +173,7 @@ Your page must include the following **4 requirements**:
 ---
 
 ### Example Solution
-![Portfolio Day 11 Example Image](images/portfolio_day11.png)
+![Portfolio Day 11 Example Image](/images/portfolio_day11.png)
 
 ---
 
