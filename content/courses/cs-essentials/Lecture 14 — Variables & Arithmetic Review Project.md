@@ -1,10 +1,13 @@
 ---
-title: Lecture 14 — Variables & Arithmetic Review Project
+title: "Lecture 14 — Variables & Arithmetic Review Project"
 weight: 14
-Instructor: Laksh Budhrani
+math: true
 ---
-# Lecture 14 — Variables & Arithmetic Review Project
+
+# Lecture 14 — Variables & Arithmetic Review Project  
 Instructor: Laksh Budhrani
+
+---
 
 ## Recall
 
@@ -81,12 +84,11 @@ Calculate and display:
 * Total cost of gasoline for the trip
 
 Use:
-$$
-Gallons=\frac{Distance}{MPG}
-$$
-$$
-Cost=Gallons\times Price
-$$
+
+$$\text{Gallons} = \frac{\text{Distance}}{\text{MPG}}$$
+
+$$\text{Cost} = \text{Gallons} \times \text{Price}$$
+
 ---
 
 ## 3. Number Reversal — 4 points
@@ -111,9 +113,9 @@ Use `//` and `%` to separate the digits.
 Write a program that accepts the **mass of an object in kilograms** and its **velocity in meters per second**.
 
 Calculate and display the object's **kinetic energy in joules**.
-$$
-KE=\frac{1}{2}mv^2
-$$
+
+$$KE = \frac{1}{2}mv^2$$
+
 ---
 
 ## 5. Square and Cube Calculator — 4 points

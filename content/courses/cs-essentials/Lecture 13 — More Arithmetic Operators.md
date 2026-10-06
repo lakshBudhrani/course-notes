@@ -1,10 +1,13 @@
 ---
-title: Lecture 13 — More Arithmetic Operators
+title: "Lecture 13 — More Arithmetic Operators"
 weight: 13
-Instructor: Laksh Budhrani
+math: true
 ---
-# Lecture 13 — More Arithmetic Operators
+
+# Lecture 13 — More Arithmetic Operators  
 Instructor: Laksh Budhrani
+
+---
 
 ## Recall
 
@@ -19,12 +22,12 @@ Instructor: Laksh Budhrani
 
 ### Basic Arithmetic Operators
 
-|Operator|Meaning|Example|
-|---|---|---|
-|`+`|Addition|`10 + 5`|
-|`-`|Subtraction|`10 - 5`|
-|`*`|Multiplication|`10 * 5`|
-|`/`|Division|`10 / 5`|
+| Operator | Meaning        | Example  |
+| -------- | -------------- | -------- |
+| `+`      | Addition       | `10 + 5` |
+| `-`      | Subtraction    | `10 - 5` |
+| `*`      | Multiplication | `10 * 5` |
+| `/`      | Division       | `10 / 5` |
 
 ---
 
@@ -78,7 +81,7 @@ Output:
 
 Because:
 
-17÷5=3 remainder $217 \div 5 = 3\text{ remainder }2$
+$17 \div 5 = 3\text{ remainder }2$
 
 `//` gives us the number of **complete groups**.
 
@@ -103,7 +106,7 @@ Output:
 
 Because:
 
-17÷5=3 remainder $217 \div 5 = 3\text{ remainder }2$
+$17 \div 5 = 3\text{ remainder }2$
 
 So:
 
@@ -118,38 +121,38 @@ These two operators are especially useful when working with **digits, groups, an
 
 ### 1. Which operator is used to raise a number to a power?
 
-A. `//`
-B. `%`
-C. `**`
-D. `/`
+* A. `//`
+* B. `%`
+* C. `**`
+* D. `/`
 
 ### 2. What is the result of `17 // 5`?
 
-A. `2`
-B. `3`
-C. `3.4`
-D. `5`
+* A. `2`
+* B. `3`
+* C. `3.4`
+* D. `5`
 
 ### 3. What is the result of `17 % 5`?
 
-A. `2`
-B. `3`
-C. `3.4`
-D. `5`
+* A. `2`
+* B. `3`
+* C. `3.4`
+* D. `5`
 
 ### 4. What does the `%` operator return?
 
-A. The quotient
-B. The decimal portion
-C. The remainder
-D. The power
+* A. The quotient
+* B. The decimal portion
+* C. The remainder
+* D. The power
 
 ### 5. Which operator would be most useful for finding the number of complete groups?
 
-A. `/`
-B. `%`
-C. `//`
-D. `**`
+* A. `/`
+* B. `%`
+* C. `//`
+* D. `**`
 
 ### 6. What is the result of the following?
 
@@ -157,10 +160,10 @@ D. `**`
 result = 2 ** 4
 ```
 
-A. `6`
-B. `8`
-C. `16`
-D. `24`
+* A. `6`
+* B. `8`
+* C. `16`
+* D. `24`
 
 ---
 
@@ -172,13 +175,9 @@ Write a program that calculates the **final amount** and **total interest** for 
 
 The program should accept the principal amount, annual interest rate, and number of years.
 
-$$
-A=P\left(1+\frac{R}{100}\right)^T
-$$
+$$A = P\left(1 + \frac{R}{100}\right)^T$$
 
-$$
-Interest=A-P
-$$
+$$\text{Interest} = A - P$$
 
 ---
 
@@ -202,9 +201,7 @@ Use arithmetic operators, `//`, and `%`.
 
 Write a program that accepts the coordinates of two points and calculates the distance between them.
 
-$$
-d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}
-$$
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
 
 ---
 
