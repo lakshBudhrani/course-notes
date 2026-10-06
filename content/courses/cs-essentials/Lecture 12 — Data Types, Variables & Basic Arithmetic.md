@@ -1,14 +1,13 @@
 ---
-
 title: "Lecture 12 — Data Types, Variables & Basic Arithmetic"
 weight: 12
+---
 
-
-# Lecture 12 — Data Types, Variables & Basic Arithmetic
-
+# Lecture 12 — Data Types, Variables & Basic Arithmetic  
 Instructor: Laksh Budhrani
 
 ---
+
 # Lecture 12 — Data Types, Variables & Basic Arithmetic  
 Instructor: Laksh Budhrani
 
@@ -224,45 +223,45 @@ This allows us to solve real-world problems by storing information in variables 
 
 ### 1. Which data type is used to store a whole number?
 
-A. `float`
-B. `int`
-C. `str`
-D. `bool`
+* A. `float`
+* B. `int`
+* C. `str`
+* D. `bool`
 
 ### 2. Which data type is used to store text?
 
-A. `int`
-B. `float`
-C. `str`
-D. `bool`
+* A. `int`
+* B. `float`
+* C. `str`
+* D. `bool`
 
 ### 3. What is the value of `10 + 5 * 2`?
 
-A. `30`
-B. `25`
-C. `20`
-D. `15`
+* A. `30`
+* B. `25`
+* C. `20`
+* D. `15`
 
 ### 4. Which operator is used for multiplication in Python?
 
-A. `x`
-B. `×`
-C. `*`
-D. `%`
+* A. `x`
+* B. `×`
+* C. `*`
+* D. `%`
 
 ### 5. What type of value is stored in `price = 12.50`?
 
-A. `int`
-B. `float`
-C. `str`
-D. `bool`
+* A. `int`
+* B. `float`
+* C. `str`
+* D. `bool`
 
 ### 6. What is the purpose of a variable?
 
-A. To repeat a program
-B. To store a value
-C. To stop a program
-D. To create a loop
+* A. To repeat a program
+* B. To store a value
+* C. To stop a program
+* D. To create a loop
 
 ---
 
@@ -290,7 +289,7 @@ Write a program that calculates the **diameter**, **circumference**, and **area*
 
 The program should accept the radius as input.
 
-Use \($pi = 3.14159$\).
+Use $\pi = 3.14159$.
 
 $$
 d = 2r
