@@ -58,7 +58,8 @@ Output:
 ```
 
 Mathematically:
-$2^3 = 8$  
+
+$$2^3 = 8$$
 
 ---
 
@@ -81,7 +82,7 @@ Output:
 
 Because:
 
-$17 \div 5 = 3\text{ remainder }2$
+$$17 \div 5 = 3 \quad \text{remainder } 2$$
 
 `//` gives us the number of **complete groups**.
 
@@ -106,7 +107,7 @@ Output:
 
 Because:
 
-$17 \div 5 = 3\text{ remainder }2$
+$$17 \div 5 = 3 \quad \text{remainder } 2$$
 
 So:
 
@@ -175,9 +176,13 @@ Write a program that calculates the **final amount** and **total interest** for 
 
 The program should accept the principal amount, annual interest rate, and number of years.
 
-$$A = P\left(1 + \frac{R}{100}\right)^T$$
+$$
+A = P\left(1 + \frac{R}{100}\right)^T
+$$
 
-$$\text{Interest} = A - P$$
+$$
+\text{Interest} = A - P
+$$
 
 ---
 
@@ -201,7 +206,9 @@ Use arithmetic operators, `//`, and `%`.
 
 Write a program that accepts the coordinates of two points and calculates the distance between them.
 
-$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+$$
 
 ---
 
