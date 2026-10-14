@@ -170,18 +170,14 @@ result = 2 ** 4
 
 # Guided Practice
 
-## Question 1 — Compound Interest
+## Question 1 — Pythagorean Theorem
 
-Write a program that calculates the **final amount** and **total interest** for an investment with annual compounding.
+Write a program that calculates the **hypotenuse** of a right triangle.
 
-The program should accept the principal amount, annual interest rate, and number of years.
-
-$$
-A = P\left(1 + \frac{R}{100}\right)^T
-$$
+The program should accept the lengths of the two shorter sides of the triangle.
 
 $$
-\text{Interest} = A - P
+c = \sqrt{a^2 + b^2}
 $$
 
 ---

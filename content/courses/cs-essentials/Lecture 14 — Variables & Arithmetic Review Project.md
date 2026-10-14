@@ -57,16 +57,23 @@ Your programs should:
 
 ---
 
-## 1. Movie Theater Revenue — 4 points
+## Question 1 — Movie Theater Revenue — 4 points 
 
-Write a program that accepts the following information:
+Write a program that calculates and displays the **total revenue** from movie ticket sales.
 
-* Price of an adult ticket
-* Number of adult tickets
-* Price of a child ticket
-* Number of child tickets
+The program should accept the adult ticket price, number of adult tickets, child ticket price, and number of child tickets.
 
-Calculate and display the **total revenue** from the ticket sales.
+$$
+\text{Adult Revenue} = \text{Adult Price} \times \text{Adult Tickets}
+$$
+
+$$
+\text{Child Revenue} = \text{Child Price} \times \text{Child Tickets}
+$$
+
+$$
+\text{Total Revenue} = \text{Adult Revenue} + \text{Child Revenue}
+$$
 
 ---
 
