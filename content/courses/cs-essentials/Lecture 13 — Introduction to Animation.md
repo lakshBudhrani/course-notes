@@ -76,7 +76,10 @@ Create a new Python file named `animation_car.py`.
 
 ### Car Animation Video
 
-![Car Animation Video](/videos/car_animation.mp4)
+<video width="100%" controls autoplay loop muted>
+  <source src="/videos/car_animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Starter Template
 
@@ -105,7 +108,11 @@ Create a new Python file named `animation_ship.py`.
 
 ### Ship Animation Video
 
-![Ship Animation Video](/videos/boat_animation.mp4)
+<video width="100%" controls autoplay loop muted>
+  <source src="/videos/boat_animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Your Task
 
 Create a simple ship and animate it moving from left to right.
