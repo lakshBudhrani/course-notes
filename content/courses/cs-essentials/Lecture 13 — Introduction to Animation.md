@@ -26,7 +26,7 @@ An animation redraws the scene many times per second.
 
 Repeating these steps makes the object appear to move.
 
-![Frame-by-frame animation logic](/images/animation-logic.png)
+![Frame-by-frame animation logic](/images/animation_logic.png)
 
 ------------------------------------------------------------------------
 
@@ -76,8 +76,8 @@ Create a new Python file named `animation_car.py`.
 
 ### Car Animation Video
 
-<video width="100%" controls autoplay loop muted>
-  <source src="/videos/car_animation.mp4" type="video/mp4">
+<video width="100%" controls preload="metadata">
+  <source src="/videos/car_animation.mp4#t=0.001" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -108,8 +108,8 @@ Create a new Python file named `animation_ship.py`.
 
 ### Ship Animation Video
 
-<video width="100%" controls autoplay loop muted>
-  <source src="/videos/boat_animation.mp4" type="video/mp4">
+<video width="100%" controls preload="metadata">
+  <source src="/videos/boat_animation.mp4#t=0.001" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
